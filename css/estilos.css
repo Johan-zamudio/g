@@ -1,0 +1,21 @@
+body{
+
+background-color: black;
+
+}
+
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 100px;
+    
+}
+
+.Titles{
+
+color: aliceblue;
+text-align: center;
+}

@@ -1,0 +1,24 @@
+Almacenes “El mendigo distinguido” tiene una
+promoción: 
+
+
+ todos los trajes que tienen un precio superior a $150.000.- se les aplicará un
+descuento de 15%, 
+
+
+
+a todos los demás se les aplicará sólo 8%.
+
+ Realice el código para determinar el precio final que debe pagar una persona por comprar 
+ un traje y de cuánto es el descuento que obtendrá.
+
+
+
+
+EJERCICIO 4
+
+
+Realice el código para generar e imprimir en Pantalla los números
+ pares o impares
+(solicitando al usuario) que se encuentran entre 0 y 100. 
+Realice el código, utilizando el ciclo apropiado
